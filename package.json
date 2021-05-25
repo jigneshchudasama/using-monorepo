@@ -1,0 +1,23 @@
+{
+  "name": "using-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigneshchudasama/using-monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jigneshchudasama/using-monorepo/issues"
+  },
+  "homepage": "https://github.com/jigneshchudasama/using-monorepo#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
