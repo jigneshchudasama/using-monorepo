@@ -2,7 +2,7 @@ import React from 'react';
 
 const CustomText = ({children}) => {
   return (
-    <p>
+    <p className="text-p">
       {children}
     </p>
   )
