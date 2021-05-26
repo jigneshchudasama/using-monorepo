@@ -11,7 +11,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 var CustomText = function CustomText(_ref) {
   var children = _ref.children;
-  return /*#__PURE__*/_react["default"].createElement("p", null, children);
+  return /*#__PURE__*/_react["default"].createElement("p", {
+    className: "text-p"
+  }, children);
 };
 
 var _default = CustomText;
