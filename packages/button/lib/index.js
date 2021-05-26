@@ -12,7 +12,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 var CustomButton = _styledComponents["default"].button.withConfig({
   displayName: "src__CustomButton",
   componentId: "sc-132cw10-0"
-})(["background:red;color:#fff;border-radius:4px;cursor:pointer;font-size:1rem;font-weight:300;padding:9px 36px;"]);
+})(["background:black;color:yellow;border-radius:4px;cursor:pointer;font-size:1rem;font-weight:300;padding:9px 36px;"]);
 
 var _default = CustomButton;
 exports["default"] = _default;
